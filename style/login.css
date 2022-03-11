@@ -147,7 +147,7 @@
         background-color: rgba(0, 0, 0, 0.603);
     }
     
-    #main .left p, h1, label, strong {
+    #main .left p:not(.excepto), h1, label, strong {
         color: white;
     }
 
